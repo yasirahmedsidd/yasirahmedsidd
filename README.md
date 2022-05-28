@@ -5,7 +5,7 @@
 
 
 ## About 
-I am Yasir Ahmed Siddiqui, Software Engineer from Pakistan and currently working as a Frontend Developer at <a href="https://techoid.co" target="_blank">Techoid</a>. Despite working in the Frontend, I am very much enthusiastic about other technologies. My expertise includes JavaScript, React.js, WordPress, Elementor, WooCommerce.
+I am Yasir Ahmed Siddiqui, Software Engineer from Pakistan and currently working as a Frontend Developer at <b>Techoid</b>. Despite working in the Frontend, I am very much enthusiastic about other technologies. My expertise includes JavaScript, React.js, WordPress, Elementor, WooCommerce.
 
 
 
