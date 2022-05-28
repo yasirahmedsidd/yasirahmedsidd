@@ -1,4 +1,4 @@
-<h3 title="hehehe"> Hey 👋, I'm Yasir Ahmed!</h3>
+<h3 title="hehehe"> Hey 👋, I'm Yasir!</h3>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasirahmedsidd/)
 [<img src="https://img.shields.io/github/followers/yasirahmedsidd?label=follow&style=social" height="22" title="Follow me" />](https://github.com/yasirahmedsidd) 
