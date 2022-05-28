@@ -1,1 +1,13 @@
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leandra-silva-831b891ab/)
+[<img src="https://img.shields.io/github/followers/yasirahmedsidd?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/_leandra.oliveiras)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leandra.silva@ccc.ufcg.edu.br)
+
+
+## About 
+I am Yasir Ahmed Siddiqui, Software Engineer from Pakistan and currently working as a Frontend Developer at <a href="https://techoid.co">Techoid</a>. Despite working in the Frontend, I am very much enthusiastic about other technologies. My expertise includes JavaScript, React.js, WordPress, Elementor, WooCommerce.
+
+
+
+<img align= "right" width= "240" src= "https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966"/>
