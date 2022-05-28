@@ -1,12 +1,5 @@
 <h3 title="hehehe"> Hey 👋, I'm Yasir Ahmed!</h3>
 
-<a href="https://www.linkedin.com/in/yasirahmedsidd">
-  <img align="left" alt="Yasir's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/YasirAhmedSiddiqui11/">
-  <img align="left" alt="Yasir's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yasirahmedsidd/)
 [<img src="https://img.shields.io/github/followers/yasirahmedsidd?label=follow&style=social" height="22" title="Follow me" />](https://github.com/LeandraOliveiraS) 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yasirahmedsidd@gmail.com)
