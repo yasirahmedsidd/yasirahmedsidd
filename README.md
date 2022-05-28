@@ -38,3 +38,5 @@ I am Yasir Ahmed Siddiqui, Software Engineer from Pakistan and currently working
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=nextjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
+
+<img src="https://github-readme-stats.vercel.app/api?username=yasirahmedsidd&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Yasir's GitHub Stats">
