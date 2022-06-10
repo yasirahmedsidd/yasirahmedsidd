@@ -6,7 +6,7 @@
 
 
 ## About 
-I am Yasir Ahmed Siddiqui, Software Engineer from Pakistan and currently working as a Frontend Developer at <b>Manhattan Communications Pvt. Ltd.</b>. Despite working in the Frontend, I am very much enthusiastic about other technologies. My expertise includes JavaScript, React.js, WordPress, Elementor and WooCommerce.
+I am Yasir Ahmed Siddiqui, Software Engineer from Pakistan and currently working as a Frontend Developer at <b>Manhattan Communications Pvt. Ltd.</b> Despite working in the Frontend, I am very much enthusiastic about other technologies. My expertise includes JavaScript, React.js, WordPress, Elementor and WooCommerce.
 
 - 👨🏽‍💻 I’m currently working at Manhattan Communications Pvt. Ltd.
 - 🌱 I’m currently exploring NextJs.
